@@ -75,6 +75,15 @@ figcaption {
     line-height: 1.5;
   }
 
+  .img-flex {
+    position: relative;
+  }
+
+  figcaption {
+    position: absolute;
+    top: 15.5em;
+    left: 30em;
+
 }
 
 @media only screen and (min-width: 90em) {
